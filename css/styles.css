@@ -560,22 +560,22 @@ button:focus {
 {
   .p-2,.p-2-1
   {
-    font-size: 0.9rem;
+    font-size: 1.2rem;
   }
   .btn-rw-2
   {
-    font-size: 0.8rem;
+    font-size: 1.2rem;
   }
   .row-3-h3{
-    font-size: 0.8rem;
+    font-size: 1.2rem;
   }
   .nav-link
   {
-    font-size: 0.8rem;
+    font-size: 1rem;
       padding: 0.5rem 2rem !important ;
   }
   .lorem{
-    font-size:0.9rem;
+    font-size:1.2rem;
   }
   .carousel-indicators {
     padding-top: 14%;
@@ -584,48 +584,6 @@ button:focus {
 @media (max-width:580px)
 {
   .carousel-indicators {
-    padding-top: 35%;
+    padding-top: 25%;
 }
-@media (max-width:550px)
-{
-  .HEADING h1
-  {
-    font-size: 1.8rem;
 
-  }
-  .HEADING h3
-  {
-    font-size: 1rem;
-
-  }
-  .row-1-1 p
-  {
-    font-size: 0.8rem;
-  }
-  .row-1-1 button
-  {
-      font-size: 0.8rem;
-
-  }
-  .row-1-2 p
-  {
-      font-size: 0.8rem;
-  }
-  .row-1-2 button
-  {
-      font-size: 0.8rem;
-  }
-  .span-1
-  {
-    font-size: 0.7rem;
-
-  }
-  .carousel-indicators {
-    padding-top: 35%;
-
-}
-@media (max-width:500px)
-{
-  .carousel-indicators {
-    padding-top: 38%;
-}
