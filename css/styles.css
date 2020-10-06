@@ -437,153 +437,28 @@ button:focus {
 
     .p-2,.p-2-1
     {
-      font-size: 1rem;
+      font-size: 2rem;
     }
     .carousel-indicators {
       padding-top: 23%;
   }
   .row-3-h3{
-    font-size: 1.5rem;
+    font-size: 2rem;
   }
   .nav-link
   {
-    font-size: 0.9rem;
+    font-size: 1rem;
     padding: 0.5rem 4.5rem !important ;
   }
   .lorem{
-    font-size:1rem;
+    font-size:1.5rem;
   }
   .call
   {
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
   .svg-6
   {
     width: 15%;
   }
 }
-@media screen and (max-width:800px)
-{
-  .p-2,.p-2-1
-  {
-    font-size: 1rem;
-  }
-.carousel-indicators {
-  padding-top: 25%;
-}
-.btn-rw-2
-{
-  font-size: 0.8rem;
-}
-.row-3-h3{
-  font-size: 1.3rem;
-}
-.nav-link
-{
-  font-size: 0.7rem;
-    padding: 0.5rem 3.5rem !important ;
-}
-.lorem{
-  font-size:1rem;
-}
-.call
-{
-  font-size: 1rem;
-}
-.svg-6
-{
-  width: 13%;
-}
-}
-@media screen and (max-width:700px)
-{
-  .HEADING h1
-  {
-    font-size: 2.4rem;
-
-  }
-  .HEADING h3
-  {
-    font-size: 1.2rem;
-
-  }
-  .row-1-1 p
-  {
-    font-size: 1rem;
-  }
-  .row-1-1 button
-  {
-      font-size: 1rem;
-
-  }
-  .row-1-2 p
-  {
-      font-size: 1rem;
-  }
-  .row-1-2 button
-  {
-      font-size: 1rem;
-  }
-  .span-1
-  {
-    font-size: 0.8rem;
-
-  }
-  .row-3-h3{
-    font-size: 1rem;
-  }
-  .nav-link
-  {
-    font-size: 0.7rem;
-      padding: 0.5rem 2.8rem !important;
-  }
-  .lorem{
-    font-size:1rem;
-  }
-  .call
-  {
-    font-size: 1rem;
-  }
-
-}
-@media screen and (max-width:680px)
-{
-.carousel-indicators {
-  padding-top: 30%;
-}
-.call
-{
-  font-size: 1rem;
-}
-}
-@media screen and (max-width:600px)
-{
-  .p-2,.p-2-1
-  {
-    font-size: 1.2rem;
-  }
-  .btn-rw-2
-  {
-    font-size: 1.2rem;
-  }
-  .row-3-h3{
-    font-size: 1.2rem;
-  }
-  .nav-link
-  {
-    font-size: 1rem;
-      padding: 0.5rem 2rem !important ;
-  }
-  .lorem{
-    font-size:1.2rem;
-  }
-  .carousel-indicators {
-    padding-top: 14%;
-}
-}
-@media (max-width:580px)
-{
-  .carousel-indicators {
-    padding-top: 25%;
-}
-
