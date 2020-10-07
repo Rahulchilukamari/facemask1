@@ -427,12 +427,23 @@ button:focus {
 {
   text-align: left;
   letter-spacing: 0;
+}
+.p-3-1
+{
+  text-align: left;
+  letter-spacing: 0;
+  padding: 0 14%;
+  font-family: 'Oswald', sans-serif;
 
 }
 .btn-rw-2
 {
   font-size: 1.1rem;
   padding: 10px 30px !important;
+}
+#row-3
+{
+  padding: 0;
 }
 .row-3-h3{
   font-size: 1.3rem !important;
@@ -466,6 +477,7 @@ button:focus {
 {
   font-size:1rem;
   text-align: left;
+  padding: 0 14%;
 }
 .call
 {
