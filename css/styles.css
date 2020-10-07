@@ -347,19 +347,6 @@ button:focus {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 /********** media queries ***********/
 @media screen and (min-width:1300px)
 {
@@ -377,10 +364,6 @@ button:focus {
   .row-3-2-3
   {
     display: none;
-  }
-  .carousel-indicators
-  {
-        padding-top: 13%;
   }
 }
 @media screen and (max-width:450px)
