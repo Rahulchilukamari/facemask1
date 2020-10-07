@@ -448,7 +448,7 @@ button:focus {
 }
 .row-3-2-3
 {
-  display: inline-block;
+  display: inline-block !important;
 }
 .lorem
 {
@@ -469,7 +469,7 @@ button:focus {
 }
 .putting-lorem,.footer
 {
-  text-align: center;
+  text-align: center !important;
 }
 .footer
 {
