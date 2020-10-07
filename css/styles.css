@@ -109,6 +109,10 @@ border: solid 1px white;
 {
   font-weight: bolder;
 }
+.p-2-1
+{
+  font-family: 'Oswald', sans-serif;
+}
 .row-2-1 button
 {
 margin: 5% 0 0;
@@ -274,7 +278,7 @@ padding: 0.5rem 6rem !important;
   float: right;
     margin-top:4%;
 }
-.putting
+.putting-lorem
 {
   margin-top: 15px;
     margin-bottom: 1rem;
@@ -338,4 +342,110 @@ button:focus {
   color:white;
   padding: 4% 0;
 
+}
+
+/********** media queries ***********/
+@media screen and (min-width:1000px)
+{
+  .row-3-2-3
+  {
+    display: none;
+  }
+  .carousel-indicators
+  {
+        padding-top: 13%;
+  }
+}
+@media screen and (max-width:450px)
+{
+  hr
+  {
+    margin-top: 1.5rem !important;
+    margin-bottom: 1.5rem !important;
+  }
+.HEADING h1
+{
+  font-size: 2rem;
+      margin-top: -2%;
+      letter-spacing: 0.1rem;
+}
+.HEADING h3
+{
+  font-size: 1.2rem;
+}
+.row-1-1 p,.row-1-2 p{
+  margin: 100% auto auto 27%
+}
+.row-1-1 button,.row-1-2 button {
+    margin: 1.8% auto 12% 25%;
+}
+
+.p-1-1,.p-1-2
+{
+  font-size: 0.8rem;
+}
+.b-1-1
+{
+  font-size: 0.6rem;
+}
+.carousel-indicators
+{
+ margin-top:50%;
+}
+.p-2-1
+{
+  text-align: left;
+  letter-spacing: 0;
+
+}
+.btn-rw-2
+{
+  font-size: 1.1rem;
+  padding: 10px 30px !important;
+}
+.row-3-h3{
+  font-size: 1.3rem !important;
+  margin-bottom:1rem !important;
+}
+.nav-link
+{
+  padding: 0 1rem !important;
+}
+.row-3-1,.row-3-2
+{
+  width: 100%;
+}
+.row-3-1
+{
+  margin-bottom:5px;
+}
+.row-3-1-2
+{
+  display: none;
+}
+.lorem
+{
+  font-size:1rem;
+  text-align: left;
+}
+.call
+{
+  font-size: 1rem;
+}
+.row-6-1,.row-6-2
+{
+  width: 100%
+}
+.svg-6
+{
+  width:15%;
+}
+.putting-lorem,.footer
+{
+  text-align: center;
+}
+.footer
+{
+  margin-bottom: 0;
+}
 }
