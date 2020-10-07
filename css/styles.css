@@ -446,6 +446,10 @@ button:focus {
 {
   display: none;
 }
+.row-3-2-3
+{
+  display: inline-block;
+}
 .lorem
 {
   font-size:1rem;
