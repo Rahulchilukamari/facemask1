@@ -124,7 +124,7 @@ margin: 5% 0 0;
 
 .carousel-indicators
 {
-  padding-top: 10%;
+  padding-top: 10% !important;
   top: 40%;
 }
 .carousel-indicators li
@@ -343,6 +343,19 @@ button:focus {
   padding: 4% 0;
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
