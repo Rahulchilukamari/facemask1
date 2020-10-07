@@ -344,7 +344,34 @@ button:focus {
 
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /********** media queries ***********/
+@media screen and (min-width:1300px)
+{
+  .row-3-2-3
+  {
+    display: none;
+  }
+  .carousel-indicators
+  {
+        padding-top: 9%;
+  }
+}
 @media screen and (min-width:1000px)
 {
   .row-3-2-3
